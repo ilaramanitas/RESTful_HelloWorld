@@ -1,2 +1,3 @@
-# projects
-Miscelaneous Java Projects
+# REST demo
+This is a demo Hello world RESTful service
+
